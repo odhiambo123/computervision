@@ -22,3 +22,9 @@ COMPUTER_VISION_ENDPOINT=''
 
 you can add a different file path to read from by replacing the url on main.py
 run your code.
+
+References:
+
+[Azure samples](https://github.com/Azure-Samples/cognitive-services-quickstart-code/blob/master/python/ComputerVision/REST/python-hand-text.md)
+
+[how to set environment variables](https://able.bio/rhett/how-to-set-and-get-environment-variables-in-python--274rgt5)
